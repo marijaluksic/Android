@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523289490232",
+    "project_id": "fragmentiluksic",
+    "storage_bucket": "fragmentiluksic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523289490232:android:f081730a3a09b8927f87cd",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.listaluksic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523289490232-dvla1ldj3ug3vhe4g4k191ra28j41hh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.tvz.android.listaluksic",
+            "certificate_hash": "e0c365f8d3a069c3664056aa674bd655a767bd1b"
+          }
+        },
+        {
+          "client_id": "523289490232-bk0an0q0tae0gp1sejh0v3uuq4694lr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_RKfsCpiHAKzBCwUPvWKRFqsuDJkDBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523289490232-bk0an0q0tae0gp1sejh0v3uuq4694lr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

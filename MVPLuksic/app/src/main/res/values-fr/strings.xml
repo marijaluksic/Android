@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaLuksic</string>
+    <string name="mackica">Le minou</string>
+    <string name="vocka">Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas.</string>
+    <string name="opisImageButton">Appel</string>
+    <string name="bicikl">Le vélo</string>
+    <string name="lak">Le vernis à ongles</string>
+    <string name="biciklopis">Liberté, égalité, fraternité!</string>
+    <string name="lakopis">Le tout premier saxophone construit par Sax, à Paris (rue Myrha dans le 18e arrondissement), en 1842, était un saxophone baryton en fa. Ce tout premier saxophone présentait toutes les caractéristiques du saxophone actuel : tube métallique à perce conique, bec à anche simple et système de clés Boehm, mais il avait encore la forme générale d\'un ophicléide.</string>
+    <string name="sretanrodendan">Joyeux Anniversaire!</string>
+    <string name="menu_share">Partager</string>
+    <string name="dialogpitanje">Voulez-vous coucher avec moi, ce soir?</string>
+    <string name="da">Oui</string>
+    <string name="ne">Non</string>
+    <string name="daporuka">Omelette au fromage!</string>
+    <string name="neporuka">¿Dónde está la biblioteca?</string>
+    <string name="dozvole">Il n\'a pas été fait droit à cette demande</string>
+    <string name="pokretanje">" L'activité n'a pas pu démarrer"</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".ZadatakBaza">
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/Button01" >
+
+    </ListView>
+
+    <Button
+        android:id="@+id/buttonUnesi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/list"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="86dp"
+        android:onClick="unesi"
+        android:text="Unesi u bazu" />
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/buttonUnesi"
+        android:layout_alignBottom="@+id/buttonUnesi"
+        android:layout_alignRight="@+id/list"
+        android:onClick="obrisi"
+        android:text="Obriši" />
+
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/Button01"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/notica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/title"
+        android:layout_below="@+id/title"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/bla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/title"
+        android:layout_alignParentLeft="true"
+        android:text="Naslov" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/notica"
+        android:layout_alignLeft="@+id/bla"
+        android:text="Opis" />
+    <EditText
+        android:id="@+id/notica2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/notica"
+        android:layout_below="@+id/notica"
+        android:ems="10" />
+
+    <TextView
+        android:id="@+id/bla2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/notica2"
+        android:layout_alignLeft="@+id/bla"
+        android:text="Slika" />
+</RelativeLayout>

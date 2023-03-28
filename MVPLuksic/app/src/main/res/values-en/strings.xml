@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaLuksic</string>
+    <string name="mackica">Kitty cat</string>
+    <string name="vocka">He gives his harness bells a shake \nTo ask if there is some mistake. \nThe only other sound’s the sweep \nOf easy wind and downy flake. \nThe woods are lovely, dark and deep, \nBut I have promises to keep, \nAnd miles to go before I sleep, \nAnd miles to go before I sleep.</string>
+    <string name="opisImageButton">Call</string>
+    <string name="bicikl">Bicycle</string>
+    <string name="lak">Nail varnish</string>
+    <string name="biciklopis">Don\'t call my name, don\'t call my name, Alejandro I\'m not your babe, I\'m not your babe, Fernando Don\'t wanna kiss, don\'t wanna touch Just smoke my cigarette and hush Don\'t call my name, don\'t call my name, Roberto Alejandro, Alejandro Ale-Alejandro, Ale-Alejandro Alejandro, Alejandro Ale-Alejandro, Ale-Alejandro</string>
+    <string name="lakopis">Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x5 inch loaf pan. In a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten. Pour batter into prepared loaf pan.</string>
+    <string name="sretanrodendan">Happy Birthday!</string>
+    <string name="menu_share">Search</string>
+    <string name="da">Yes</string>
+    <string name="ne">No</string>
+    <string name="daporuka">Go ahead, make my day...</string>
+    <string name="neporuka">A man\'s got to know his limitations.</string>
+    <string name="dialogpitanje">Do I feel lucky?\' Well, do you, punk?</string>
+    <string name="pokretanje">Activity could not be started</string>
+    <string name="dozvole">Permission to call not granted</string>
+
+
+</resources>

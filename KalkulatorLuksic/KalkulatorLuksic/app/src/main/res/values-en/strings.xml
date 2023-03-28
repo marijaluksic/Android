@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorLuksic</string>
+    <string name="zahtjev">Enter your date of birth</string>
+    <string name="dan">Day</string>
+    <string name="mjesec">Month</string>
+    <string name="izgataj">Reading</string>
+    <string name="horoskopius">Horoskopius 2.0</string>
+    <string name="ovan">Aries</string>
+    <string name="bik">Taurus</string>
+    <string name="blizanac">Gemini</string>
+    <string name="rak">Cancer</string>
+    <string name="lav">Leo</string>
+    <string name="djevica">Virgo</string>
+    <string name="vaga">Libra</string>
+    <string name="skorpion">Scorpio</string>
+    <string name="strijelac">Sagittarius</string>
+    <string name="jarac">Capricorn</string>
+    <string name="vodenjak">Aquarius</string>
+    <string name="riba">Pisces</string>
+    <string name="golden">Gold</string>
+    <string name="silver">Silver</string>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddNewGiggle"
+    android:background="@color/launcherBackground"
+    android:orientation="vertical"
+    android:gravity="fill_vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_marginTop="16dp">
+    <TextView
+        android:id="@+id/AddNewGiggleTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/AddNewGiggleET"
+        android:layout_gravity="center|center_vertical"
+        android:textColor="@color/white"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1">
+        <EditText
+            android:id="@+id/AddNewGiggleET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/AddNewGiggleTV"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/AddNewGiggleTV1"
+            android:textAlignment="center"
+            android:textColor="@color/p_medium"
+            android:inputType="textCapSentences"/>
+    </LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_weight="1">
+
+    <TextView
+        android:id="@+id/AddNewGiggleTV1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@id/AddNewGiggleET1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/AddNewGiggleET" />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_weight="1">
+    <EditText
+    android:id="@+id/AddNewGiggleET1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30sp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/AddNewGiggleTV1"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintBottom_toTopOf="@id/AddNewGiggleButton"
+    android:inputType="textCapSentences|textMultiLine"
+    android:maxLength="2000"
+    android:maxLines="4"
+    android:textColor="@color/p_medium"
+    android:textAlignment="center"
+    />
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_weight="1">
+    <Button
+    android:id="@+id/AddNewGiggleButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="30sp"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@id/AddNewGiggleET1"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    android:text="@string/add"
+    android:textColor="@color/p_light"
+    android:backgroundTint="@color/p_medium"
+    android:layout_gravity="center" />
+</LinearLayout>
+
+
+</LinearLayout>

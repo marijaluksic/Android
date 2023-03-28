@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaLuksic</string>
+    <string name="mackica">Mačkica</string>
+    <string name="vocka">Gle malu voćku poslije kiše:\nPuna je kapi pa ih njiše.\nI bliješti suncem obasjana,\nČudesna raskoš njenih grana.\nAl nek se sunce malko skrije,\nNestane sve te čarolije.\nOna je opet kao prvo,\nObično, jadno, malo drvo.</string>
+    <string name="opisImageButton">Poziv</string>
+    <string name="bicikl">Bicikl</string>
+    <string name="lak">Lak za nokte</string>
+    <string name="biciklopis">Alkohol ubija... znamo, o znamo,\nZnamo da alkohol škodi,\nNo rakije, rakije, rakije amo,\nJer utjehe nema u vodi.</string>
+    <string name="lakopis">Ta ne proglasi meni valjda ovo Zeus Nit Pravda, vjerna druga donjih bogova, Ovakvih zakona ti ljudima postavi; Nit tvoj je, mišljah, proglas taj toliko jak, Te ti ko smrtnik dići bi se mogao Nad božje, nepisane stalne zakone. Od danas nijesu ni od jučer, od vijeka Pa dovijek živu, niko ne zna, otkad se Pojaviše. A rad njih kazan ne htjedoh Od bogova da trpim, volje s čovjeka pobojav ma kog.</string>
+    <string name="sretanrodendan">Sretan rođendan!</string>
+    <string name="menu_share">Podijeli</string>
+    <string name="da">Da</string>
+    <string name="ne">Ne</string>
+    <string name="daporuka">Ide gas!</string>
+    <string name="neporuka">Više sreće drugi put!</string>
+    <string name="dialogpitanje">Želite li podijeliti sadržaj?</string>
+    <string name="pokretanje">Nije moguce pokrenuti aktivnost</string>
+    <string name="dozvole">Nemam ovlasti za pozivanje</string>
+</resources>

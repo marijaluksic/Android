@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KalkulatorLuksic</string>
+    <string name="horoskopius">Horoskopius 2.0</string>
+    <string name="zahtjev">Unesite svoj datum rođenja</string>
+    <string name="dan">Dan</string>
+    <string name="mjesec">Mjesec</string>
+    <string name="izgataj">Izgataj</string>
+    <string name="golden">Zlatna</string>
+    <string name="silver">Srebrna</string>
+    <string name="ovan">Ovan</string>
+    <string name="bik">Bik</string>
+    <string name="blizanac">Blizanac</string>
+    <string name="rak">Rak</string>
+    <string name="lav">Lav</string>
+    <string name="djevica">Djevica</string>
+    <string name="vaga">Vaga</string>
+    <string name="skorpion">Škorpion</string>
+    <string name="strijelac">Strijelac</string>
+    <string name="jarac">Jarac</string>
+    <string name="vodenjak">Vodenjak</string>
+    <string name="riba">Riba</string>
+</resources>

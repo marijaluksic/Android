@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814175221435",
+    "project_id": "giggle-a13bb",
+    "storage_bucket": "giggle-a13bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814175221435:android:bdaf48e471e420d02a5b9e",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.giggle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814175221435-vimfhc88adnobreoblh9gch105gsojq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.tvz.android.giggle",
+            "certificate_hash": "e0c365f8d3a069c3664056aa674bd655a767bd1b"
+          }
+        },
+        {
+          "client_id": "814175221435-gmjsvqako3riufukdi7fts779tdbkorv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUNsRUUzJFbB7pefK3gazA-lL_4Ppo80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814175221435-gmjsvqako3riufukdi7fts779tdbkorv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

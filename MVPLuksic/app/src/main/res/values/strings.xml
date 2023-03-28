@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ListaLuksic</string>
+    <string name="mackica">Mačkica</string>
+    <string name="vocka">Gle malu voćku poslije kiše Puna je kapi pa ih njiše. I bliješti suncem obasjana, Čudesna raskoš njenih grana. Al nek se sunce malko skrije, Nestane sve te čarolije. Ona je opet kao prvo, Obično, jadno, malo drvo.</string>
+    <string name="bicikl">Bicikl</string>
+    <string name="biciklopis">Alkohol ubija... znamo, o znamo, Znamo da alkohol škodi, No rakije, rakije, rakije amo, Jer utjehe nema u vodi.</string>
+    <string name="lak">Lak za nokte</string>
+    <string name="lakopis">Ta ne proglasi meni valjda ovo Zeus
+Nit Pravda, vjerna druga donjih bogova,
+Ovakvih zakona ti ljudima postavi;
+Nit tvoj je, mišljah, proglas taj toliko jak,
+Te ti ko smrtnik dići bi se mogao
+Nad božje, nepisane stalne zakone.
+Od danas nijesu ni od jučer, od vijeka
+Pa dovijek živu, niko ne zna, otkad se
+Pojaviše. A rad njih kazan ne htjedoh
+Od bogova da trpim, volje s čovjeka
+pobojav ma kog.</string>
+    <string name="opisImageButton">Poziv</string>
+    <string name="sretanrodendan">Sretan rođendan!</string>
+    <string name="menu_share">Podijeli</string>
+    <string name="da">Da</string>
+    <string name="ne">Ne</string>
+    <string name="daporuka">Ide gas!</string>
+    <string name="neporuka">Više sreće drugi put</string>
+    <string name="dialogpitanje">Želite li podijeliti sadržaj?</string>
+    <string name="pokretanje">Nije moguće pokrenuti aktivnost</string>
+    <string name="dozvole">Nemam ovlasti za pozivanje</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="2400"
+    android:fromYDelta="0"
+    android:interpolator="@anim/num_cycle"
+    android:toYDelta="40"/>
